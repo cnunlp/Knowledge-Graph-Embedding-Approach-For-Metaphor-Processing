@@ -17,17 +17,13 @@
 ## Reference
 The code and dataset are released with this paper:
 ```
-@ARTICLE{9292078,  
-    author={W. {Song} and 
-    J. {Guo} and 
-    R. {Fu} and 
-    T. {Liu} and 
-    L. {Liu}},  
-    journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},   
-    title={A Knowledge Graph Embedding Approach for Metaphor Processing},   
-    year={2020},  
-    volume={},  
-    number={},  
-    pages={1-1},  
-    doi={10.1109/TASLP.2020.3040507}}
+@article{song2020knowledge,
+  title={A Knowledge Graph Embedding Approach for Metaphor Processing},
+  author={Song, Wei and Guo, Jingjin and Fu, Ruiji and Liu, Ting and Liu, Lizhen},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  volume={29},
+  pages={406--420},
+  year={2020},
+  publisher={IEEE}
+}
 ```
