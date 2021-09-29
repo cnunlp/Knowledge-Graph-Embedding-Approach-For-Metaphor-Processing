@@ -1,4 +1,4 @@
-# A Knowledge Graph based Approach for MetaphorProcessing
+# A Knowledge Graph based Approach for Metaphor Processing
  This project include the dataset and source code for the paper Knowledge graph embedding approach for metaphor processing. 
  
 ## The main idea
