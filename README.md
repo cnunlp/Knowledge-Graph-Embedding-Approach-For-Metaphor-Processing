@@ -16,7 +16,7 @@
 ```
 ## Reference
 The code and dataset are released with this paper:
-```
+```bibtex
 @article{song2020knowledge,
   title={A Knowledge Graph Embedding Approach for Metaphor Processing},
   author={Song, Wei and Guo, Jingjin and Fu, Ruiji and Liu, Ting and Liu, Lizhen},
