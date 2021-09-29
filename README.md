@@ -1,5 +1,12 @@
-# MetaphorProcessing
- This project include the dataset and source code for the paper Knowledge graph embedding approach for metaphor processing. Detail informatin please refers to the paper.
+# A Knowledge Graph based Approach for MetaphorProcessing
+ This project include the dataset and source code for the paper Knowledge graph embedding approach for metaphor processing. 
+ 
+## The main idea
+![image](https://user-images.githubusercontent.com/42745094/135192649-9123abc2-7d83-4987-8fe3-39a5422104db.png)
+
+Metaphor is a figure of speech that describes one thing (a target) by mentioning another thing (a source) in a way that is not literally true. Metaphor understanding is an interesting but challenging problem in natural language processing. This paper presents a novel method for metaphor processing based on knowledge graph (KG) embedding. Conceptually, we abstract the structure of a metaphor as an attribute-dependent relation between the target and the source. Each specific metaphor can be represented as a metaphor triple (target, attribute, source). Therefore, we can model metaphor triples just like modeling fact triples in a KG and exploit KG embedding techniques to learn better representations of concepts, attributes and concept relations. In this way, metaphor interpretation and generation could be seen as KG completion, while metaphor detection could be viewed as a representation learning enhanced concept pair classification problem. Technically, we build a Chinese metaphor KG in the form of metaphor triples based on simile recognition, and also extract concept-attribute collocations to help describe concepts and measure concept relations. We extend the translation-based and the rotation-based KG embedding models to jointly optimize metaphor KG embedding and concept-attribute collocation embedding. Experimental results demonstrate the effectiveness of our method. Simile recognition is feasible for building the metaphor triple resource. The proposed models improve the performance on metaphor interpretation and generation, and the learned representations also benefit nominal metaphor detection compared with strong baselines.
+
+
 
 ## Dataset
 ```
