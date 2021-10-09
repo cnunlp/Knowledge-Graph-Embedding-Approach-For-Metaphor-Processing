@@ -1,5 +1,6 @@
 # A Knowledge Graph based Approach for Metaphor Processing
  This project include the dataset and source code for the paper Knowledge graph embedding approach for metaphor processing. 
+ Currently, we focus on Chinese metaphor processing.
  
 ## The main idea
 ![image](https://user-images.githubusercontent.com/42745094/135192649-9123abc2-7d83-4987-8fe3-39a5422104db.png)
